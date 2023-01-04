@@ -1,5 +1,4 @@
 Rencana konten
-
 -javascript = Es6, framework javascript = vue,react
 -struktur data dasar
 -php framework = laravel
