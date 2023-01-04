@@ -1,5 +1,5 @@
 Rencana konten
 
--javascript
+-javascript = Es6, framework javascript
 -php framework
 -interview
